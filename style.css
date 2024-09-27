@@ -1,0 +1,10 @@
+#ima1 { width: 800px; border-radius: 25px;
+}
+body { background-color: rgb(221, 9, 9);
+    text-align: center;
+}
+
+h1 {color: rgba(204, 144, 15, 0.938);font-size: 50px;}
+h2{font-size: 30px;}
+h3 {color:rgb(19, 12, 5);  font-size: 40px; text-align: center;
+}
